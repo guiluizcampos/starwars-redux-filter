@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/guiiluiz/starwars-redux-filter/static/css/main.c2878e28.chunk.css",
+    "main.js": "/guiiluiz/starwars-redux-filter/static/js/main.d6da0176.chunk.js",
+    "main.js.map": "/guiiluiz/starwars-redux-filter/static/js/main.d6da0176.chunk.js.map",
+    "runtime-main.js": "/guiiluiz/starwars-redux-filter/static/js/runtime-main.a0afbf40.js",
+    "runtime-main.js.map": "/guiiluiz/starwars-redux-filter/static/js/runtime-main.a0afbf40.js.map",
+    "static/js/2.9a8ced85.chunk.js": "/guiiluiz/starwars-redux-filter/static/js/2.9a8ced85.chunk.js",
+    "static/js/2.9a8ced85.chunk.js.map": "/guiiluiz/starwars-redux-filter/static/js/2.9a8ced85.chunk.js.map",
+    "index.html": "/guiiluiz/starwars-redux-filter/index.html",
+    "precache-manifest.92af8f143756b8246ed63d2d54339be0.js": "/guiiluiz/starwars-redux-filter/precache-manifest.92af8f143756b8246ed63d2d54339be0.js",
+    "service-worker.js": "/guiiluiz/starwars-redux-filter/service-worker.js",
+    "static/css/main.c2878e28.chunk.css.map": "/guiiluiz/starwars-redux-filter/static/css/main.c2878e28.chunk.css.map",
+    "static/js/2.9a8ced85.chunk.js.LICENSE": "/guiiluiz/starwars-redux-filter/static/js/2.9a8ced85.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a0afbf40.js",
+    "static/js/2.9a8ced85.chunk.js",
+    "static/css/main.c2878e28.chunk.css",
+    "static/js/main.d6da0176.chunk.js"
+  ]
+}
